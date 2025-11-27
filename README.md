@@ -11,13 +11,13 @@ Before you begin, please ensure your server meets the requirements specified in 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tmssictsoft/education
+   git clone https://github.com/shahriarshawon01/education_management_system
    ```
 
 2. **Navigate to the Repository Folder**
 
    ```bash
-   cd education
+   cd education_management_system
    ```
 
 3. **Install PHP Dependencies**
@@ -70,8 +70,8 @@ Before you begin, please ensure your server meets the requirements specified in 
 #### TL;DR Command List
 
 ```bash
-git clone https://github.com/tmssictsoft/education
-cd education
+git clone https://github.com/shahriarshawon01/education_management_system
+cd education_management_system
 composer install
 npm install
 cp .env.example .env
@@ -124,3 +124,4 @@ This command will:
 ---
 
 You're now ready to build and manage your Education Management System! If you encounter issues, refer to the Laravel documentation or reach out for support.
+# education_management_system
